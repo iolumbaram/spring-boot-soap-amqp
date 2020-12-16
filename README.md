@@ -1,3 +1,5 @@
+CREDIT TO : https://github.com/felipeleivav/spring-boot-soap-client-example
+
 ## Spring Boot SOAP client example
 
 This is an example project to demonstrate how to connect to SOAP web services from a Spring Boot component.
